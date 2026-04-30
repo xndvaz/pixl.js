@@ -17,6 +17,10 @@
 * [英文文档](docs/en/README.md)
 * [意大利语文档](docs/it/README.md)
 
+## 购买指南
+
+本项目不销售硬件。社区维护的购买信息请参考 [Buyer Guide #213](https://github.com/solosky/pixl.js/issues/213)。
+
 ## 内置游戏
 
 由于固件空间和维护成本，主固件不再包含内置游戏。需要自行构建实验性游戏固件的高级用户可以参考 [`game`](https://github.com/solosky/pixl.js/tree/game) 分支。
@@ -89,6 +93,10 @@ This is a recreated version based on the original [Pixl.js](http://www.espruino.
 * [Chinese Documentation](docs/zh/README.md)
 * [English Documentation](docs/en/README.md)
 * [Italian Documentation](docs/it/README.md)
+
+## Buyer Guide
+
+This project does not sell hardware. For community-maintained purchase information, see [Buyer Guide #213](https://github.com/solosky/pixl.js/issues/213).
 
 ## Built-in Games
 
